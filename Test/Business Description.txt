@@ -1,0 +1,72 @@
+Design a relational database for a ride-sharing platform similar to Uber.
+
+The system should support the following features:
+
+1. Passengers who can register, login, and request rides.
+2. Drivers who register with their vehicle details.
+3. Vehicles associated with drivers including vehicle type and registration number.
+4. Ride requests made by passengers including pickup and drop locations.
+5. Ride status tracking such as requested, accepted, in-progress, and completed.
+6. Payments for completed rides with payment method and transaction details.
+7. Ratings and reviews given by passengers to drivers after a ride.
+
+The database should include proper primary keys, foreign keys, and normalized tables.
+
+
+Design a database for a sports streaming platform.
+
+The system should support:
+- subscribers
+- sports channels
+- channel owners
+- live sports events
+- subscription plans
+- payments
+- viewing history
+
+
+Design a database for an e-commerce marketplace similar to Amazon.
+
+The system should support:
+- customers
+- sellers who list products
+- product categories
+- orders with multiple products
+- shopping cart
+- payments
+- shipping and delivery tracking
+
+
+Design a database for a hospital management system.
+
+The system should support:
+- patients
+- doctors with specializations
+- appointments
+- medical records
+- prescriptions
+- billing and payments
+
+
+Design a database for an online learning platform like Udemy.
+
+The system should support:
+- instructors who create courses
+- students who enroll in courses
+- courses with multiple lessons
+- student progress tracking
+- course ratings and reviews
+- payments for course purchases
+
+
+Design a database for a food delivery platform similar to Swiggy or Zomato.
+
+The system should support:
+- users who can register and login
+- restaurants who list food items
+- menu items with categories and prices
+- customers placing orders with multiple items
+- payments for orders
+- delivery agents delivering orders
+- order tracking and status updates
+- ratings and reviews for restaurants
